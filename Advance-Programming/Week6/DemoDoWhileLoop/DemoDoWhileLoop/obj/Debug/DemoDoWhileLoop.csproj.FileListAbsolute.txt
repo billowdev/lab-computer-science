@@ -1,0 +1,9 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\bin\Debug\DemoDoWhileLoop.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\bin\Debug\DemoDoWhileLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\bin\Debug\DemoDoWhileLoop.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoDoWhileLoop\DemoDoWhileLoop\obj\Debug\DemoDoWhileLoop.pdb
