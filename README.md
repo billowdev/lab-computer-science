@@ -1,6 +1,9 @@
 # Computer-Science
 Computer-Science-Learning-Activities
 
+## Digital-Image-Processing
+- https://github.com/lacakp/Computer-Science/tree/main/Digital-Image-Processing
+
 ## Advance-Programming
 - https://github.com/lacakp/Computer-Science/tree/Advance-Programming
 
