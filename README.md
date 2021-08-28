@@ -1,2 +1,2 @@
 # Computer-Science
-Computer-Science-Learn-C-Python-Basic
+Computer-Science-Learn-C-Programming
