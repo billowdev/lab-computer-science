@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\bin\Debug\DemoNestedForLoop.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\bin\Debug\DemoNestedForLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\bin\Debug\DemoNestedForLoop.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoNestedForLoop\DemoNestedForLoop\obj\Debug\DemoNestedForLoop.pdb
