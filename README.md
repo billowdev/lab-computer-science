@@ -35,7 +35,8 @@ Advance Programming C#, Computer Science
     │       └── DemoWhileLoop_multiplication
     │
 
-
+## Computer-Science
+- https://github.com/lacakp/Computer-Science
 
 ## Digital-Image-Processing
 - https://github.com/lacakp/Computer-Science/tree/main/Digital-Image-Processing
