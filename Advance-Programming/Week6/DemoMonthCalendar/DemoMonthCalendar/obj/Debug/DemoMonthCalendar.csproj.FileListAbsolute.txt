@@ -1,0 +1,9 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\bin\Debug\DemoMonthCalendar.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\bin\Debug\DemoMonthCalendar.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\bin\Debug\DemoMonthCalendar.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoMonthCalendar\DemoMonthCalendar\obj\Debug\DemoMonthCalendar.pdb

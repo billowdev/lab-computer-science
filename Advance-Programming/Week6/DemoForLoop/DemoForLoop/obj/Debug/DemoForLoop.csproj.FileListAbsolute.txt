@@ -1,0 +1,9 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\bin\Debug\DemoForLoop.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\bin\Debug\DemoForLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\bin\Debug\DemoForLoop.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week6\DemoForLoop\DemoForLoop\obj\Debug\DemoForLoop.pdb
