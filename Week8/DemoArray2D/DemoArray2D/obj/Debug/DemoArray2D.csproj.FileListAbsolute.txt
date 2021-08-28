@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\bin\Debug\DemoArray2D.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\bin\Debug\DemoArray2D.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\bin\Debug\DemoArray2D.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArray2D\DemoArray2D\obj\Debug\DemoArray2D.csproj.AssemblyReference.cache

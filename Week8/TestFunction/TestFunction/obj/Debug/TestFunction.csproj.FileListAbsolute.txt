@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\bin\Debug\TestFunction.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\bin\Debug\TestFunction.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\bin\Debug\TestFunction.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestFunction\TestFunction\obj\Debug\TestFunction.pdb

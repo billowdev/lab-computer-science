@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\bin\Debug\TestArray.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\bin\Debug\TestArray.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\bin\Debug\TestArray.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\TestArray\TestArray\obj\Debug\TestArray.pdb

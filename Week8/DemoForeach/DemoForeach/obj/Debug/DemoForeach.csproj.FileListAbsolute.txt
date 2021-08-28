@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\bin\Debug\DemoForeach.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\bin\Debug\DemoForeach.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\bin\Debug\DemoForeach.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoForeach\DemoForeach\obj\Debug\DemoForeach.pdb

@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\bin\Debug\DemoArrayList.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\bin\Debug\DemoArrayList.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\bin\Debug\DemoArrayList.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.Form1.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\DemoArrayList\DemoArrayList\obj\Debug\DemoArrayList.pdb

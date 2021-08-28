@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\bin\Debug\LabCh6.0_ArrayList.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\bin\Debug\LabCh6.0_ArrayList.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\bin\Debug\LabCh6.0_ArrayList.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6.0_ArrayList.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6._0_ArrayList.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6._0_ArrayList.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6.0_ArrayList.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6.0_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6.0_ArrayList.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week8\LabCh6.0_ArrayList\LabCh6.0_ArrayList\obj\Debug\LabCh6.0_ArrayList.pdb

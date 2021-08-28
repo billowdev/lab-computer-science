@@ -1,0 +1,10 @@
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\bin\Debug\LabCh7.1-Function.exe.config
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\bin\Debug\LabCh7.1-Function.exe
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\bin\Debug\LabCh7.1-Function.pdb
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7.1-Function.csproj.AssemblyReference.cache
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7._1_Function.Properties.Resources.resources
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7.1-Function.csproj.GenerateResource.cache
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7.1-Function.csproj.CoreCompileInputs.cache
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7.1-Function.exe
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7.1-Function.pdb
+C:\Users\lacak\source\repos\LabCh7.1-Function\LabCh7.1-Function\obj\Debug\LabCh7._1_Function.FrmMain.resources
