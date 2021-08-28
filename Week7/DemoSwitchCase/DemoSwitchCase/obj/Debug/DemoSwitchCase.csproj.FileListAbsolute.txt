@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\bin\Debug\DemoSwitchCase.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\bin\Debug\DemoSwitchCase.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\bin\Debug\DemoSwitchCase.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoSwitchCase\DemoSwitchCase\obj\Debug\DemoSwitchCase.pdb

@@ -1,0 +1,10 @@
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\bin\Debug\DemoWhileLoop_multiplication.exe.config
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\bin\Debug\DemoWhileLoop_multiplication.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\bin\Debug\DemoWhileLoop_multiplication.pdb
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.csproj.AssemblyReference.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.FrmMain.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.Properties.Resources.resources
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.csproj.GenerateResource.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.exe
+C:\Users\lacak\Documents\GitHub\Advance-Programming\Week7\DemoWhileLoop_multiplication\DemoWhileLoop_multiplication\obj\Debug\DemoWhileLoop_multiplication.pdb
