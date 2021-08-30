@@ -47,9 +47,6 @@ Advance Programming C#, Computer Science
 ## Python-Basic
 - https://github.com/lacakp/Computer-Science/tree/Python-Basic
 
-##  Database-System
-- https://github.com/lacakp/Computer-Science/tree/main/Database-System
-- 
 
 <!-- <details>
 <summary>Week 10</summary>
