@@ -13,5 +13,3 @@ Computer-Science-Learning-Activities
 ## Python-Basic
 - https://github.com/lacakp/Computer-Science/tree/Python-Basic
 
-##  Database-System
-- https://github.com/lacakp/Computer-Science/tree/main/Database-System
