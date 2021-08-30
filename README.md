@@ -14,5 +14,4 @@ Computer-Science-Learn-Python-Basic
 ## Com-Sci-Basic
 - https://github.com/lacakp/Computer-Science/tree/Com-Sci-Basic
 
-##  Database-System
-- https://github.com/lacakp/Computer-Science/tree/main/Database-System
+
