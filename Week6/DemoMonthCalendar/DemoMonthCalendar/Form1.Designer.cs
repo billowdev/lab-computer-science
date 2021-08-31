@@ -34,9 +34,18 @@ namespace DemoMonthCalendar
             // 
             // DemoMonthCalendar
             // 
-            this.DemoMonthCalendar.Location = new System.Drawing.Point(403, 161);
+            this.DemoMonthCalendar.BoldedDates = new System.DateTime[] {
+        new System.DateTime(2021, 9, 1, 0, 0, 0, 0),
+        new System.DateTime(2021, 9, 3, 0, 0, 0, 0)};
+            this.DemoMonthCalendar.CalendarDimensions = new System.Drawing.Size(1, 3);
+            this.DemoMonthCalendar.Dock = System.Windows.Forms.DockStyle.Left;
+            this.DemoMonthCalendar.Location = new System.Drawing.Point(0, 0);
+            this.DemoMonthCalendar.MinDate = new System.DateTime(1800, 12, 25, 0, 0, 0, 0);
             this.DemoMonthCalendar.Name = "DemoMonthCalendar";
+            this.DemoMonthCalendar.ShowWeekNumbers = true;
             this.DemoMonthCalendar.TabIndex = 2;
+            this.DemoMonthCalendar.TodayDate = new System.DateTime(2021, 8, 31, 0, 0, 0, 0);
+            this.DemoMonthCalendar.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.DemoMonthCalendar_DateChanged);
             // 
             // Form1
             // 

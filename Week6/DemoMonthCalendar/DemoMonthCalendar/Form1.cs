@@ -30,7 +30,8 @@ namespace DemoMonthCalendar
 
             // -------- Set the calendar location.
             this.DemoMonthCalendar.Location = new System.Drawing.Point(47, 16);
-
+            this.DemoMonthCalendar.FirstDayOfWeek = System.Windows.Forms.Day.Monday;
+            this.DemoMonthCalendar.ShowToday = false;
             // --------  Add dates to BoldedDates array.
             //this.DemoMonthCalendar.BoldedDates = new System.DateTime[] { new System.DateTime(2021, 8, 10, 0, 0, 0, 0) };
 
@@ -58,7 +59,7 @@ namespace DemoMonthCalendar
             //  -------- Do not show the "Today" banner.
             //this.DemoMonthCalendar.ShowToday = false;
 
-            //  -------- Do not circle today's date.
+            //--------Do not circle today's date.
             //this.DemoMonthCalendar.ShowTodayCircle = false;
 
             //  -------- Show the week numbers to the left of each week.
@@ -74,6 +75,11 @@ namespace DemoMonthCalendar
             // this.ClientSize = new System.Drawing.Size(920, 566);
             // this.Controls.AddRange(new System.Windows.Forms.Control[] { this.textBox1, this.DemoMonthCalendar });
             // this.Text = "Month Calendar Example";
+        }
+
+        private void DemoMonthCalendar_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
         }
 
         //private void DemoMonthCalendar_DateSelected(object sender, System.Windows.Forms.DateRangeEventArgs e)
