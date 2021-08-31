@@ -54,3 +54,26 @@ Advance Programming C#, Computer Science
 
 
 </details> -->
+
+
+### Control
+- Label
+- RadioButton
+- LinkLabel
+- Button
+- TextBox
+- CheckBox
+- ListBox
+- CheckedListBox
+- ComboBox
+- NumbericUpdown
+- DateTimePicker
+- MonthCalendar
+- GroupBox
+- MaskedTextBox
+- TabControl
+- TrackBar
+- Timer
+- ProgressBar
+- PictureBox
+- WebBrowser
