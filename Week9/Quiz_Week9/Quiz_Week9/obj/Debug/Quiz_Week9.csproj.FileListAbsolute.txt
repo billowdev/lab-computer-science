@@ -8,3 +8,13 @@ C:\Users\lacak\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj
 C:\Users\lacak\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.csproj.CoreCompileInputs.cache
 C:\Users\lacak\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.exe
 C:\Users\lacak\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.pdb
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\bin\Debug\Quiz_Week9.exe.config
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\bin\Debug\Quiz_Week9.exe
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\bin\Debug\Quiz_Week9.pdb
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.csproj.AssemblyReference.cache
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.Form1.resources
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.Properties.Resources.resources
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.csproj.GenerateResource.cache
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.csproj.CoreCompileInputs.cache
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.exe
+C:\Users\lacakp\Documents\GitHub\Computer-Science\Week9\Quiz_Week9\Quiz_Week9\obj\Debug\Quiz_Week9.pdb
