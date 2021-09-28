@@ -63,26 +63,6 @@ namespace Multiform.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1536061 {
-            get {
-                object obj = ResourceManager.GetObject("1536061", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _5552550a82c3a63fd5d0a3f03193999f {
-            get {
-                object obj = ResourceManager.GetObject("5552550a82c3a63fd5d0a3f03193999f", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap color_2174049_1280 {
             get {
                 object obj = ResourceManager.GetObject("color-2174049_1280", resourceCulture);
@@ -113,109 +93,9 @@ namespace Multiform.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap house_forest_solitude_122151_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("house_forest_solitude_122151_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap house_mountains_landscape_142516_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("house_mountains_landscape_142516_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap house_sea_sunset_138224_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("house_sea_sunset_138224_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap lake_sunset_trees_124674_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("lake_sunset_trees_124674_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap list_2389219_640 {
             get {
                 object obj = ResourceManager.GetObject("list-2389219_640", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap louise_lake_mountains_canada_118841_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("louise_lake_mountains_canada_118841_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap mountains_fog_landscape_84625_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("mountains_fog_landscape_84625_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap pexels_max_deroin_51415 {
-            get {
-                object obj = ResourceManager.GetObject("pexels-max-deroin-51415", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap sea_sunset_horizon_131804_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("sea_sunset_horizon_131804_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap switzerland_mountains_landscape_sky_autumn_97271_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("switzerland_mountains_landscape_sky_autumn_97271_3840x2160", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap waterfall_river_precipice_137045_3840x2160 {
-            get {
-                object obj = ResourceManager.GetObject("waterfall_river_precipice_137045_3840x2160", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

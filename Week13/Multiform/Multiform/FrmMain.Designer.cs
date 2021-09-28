@@ -75,8 +75,7 @@ namespace Multiform
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Multiform.Properties.Resources.color_2174065_640;
-            this.ClientSize = new System.Drawing.Size(635, 423);
+            this.ClientSize = new System.Drawing.Size(588, 382);
             this.Controls.Add(this.btnSummary);
             this.Controls.Add(this.btnOpinion);
             this.Controls.Add(this.btnUser);

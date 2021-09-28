@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Multiform
 {
+    // 112 อัครพล พิกุลศรี Form 2
     public partial class UserFrm : Form
     {
         public UserFrm()

@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Multiform
 {
-    // 112 อัครพล พิกุลศรี
+    // 112 อัครพล พิกุลศรี Form Main
     public partial class FrmMain : Form
     {
         public FrmMain()

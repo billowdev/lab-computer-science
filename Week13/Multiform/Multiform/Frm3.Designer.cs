@@ -115,7 +115,6 @@ namespace Multiform
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Multiform.Properties.Resources.list_2389219_640;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(658, 613);
             this.Controls.Add(this.label2);
