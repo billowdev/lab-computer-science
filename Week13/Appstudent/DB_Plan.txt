@@ -1,0 +1,8 @@
+db_student
+	tb_hisstudent
+		stu_id (11)
+		stu_name (varchar) (50)
+		stu_surname (varchar) (50)
+		stu_bdate (date/time)
+		stu_weight (Int) (3)
+			
