@@ -1,0 +1,7 @@
+db_fruit
+	tb_fruit
+		ID (3)
+		Name varchar (30)
+		Quantity int (1000)
+		Price int(10000)
+		Date (date/time)
