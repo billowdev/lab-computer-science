@@ -1,6 +1,7 @@
 # Simple Access Db
 
 Database plan: 
+<pre>
 db_fruit
 	tb_fruit
 		ID (3)
@@ -8,7 +9,7 @@ db_fruit
 		Quantity int (1000)
 		Price int(10000)
 		Date (date/time)
-
+</pre>
 
 1.	SELECT * FROM tb_fruit;
 
