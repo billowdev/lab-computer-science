@@ -153,7 +153,7 @@ SELECT Name FROM tb_fruit;
 SELECT Name, Price FROM tb_fruit;
 SELECT Name, Quantity, Price FROM tb_fruit;
 </pre>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/17-select-after.png"/>
+<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after.png"/>
 <img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after-2.png"/>
 
 19. DELETE
