@@ -13,45 +13,45 @@ db_fruit
 </pre>
 
 Database Design :
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_design.png"/>
+<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_design.png"/>
 
 Initial Data :
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_fruit.png"/>
+<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_fruit.png"/>
 
 1.	SELECT
 <pre>
 SELECT * FROM tb_fruit;
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/01-select-a.png"/>
+<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/01-select-a.png"/>
 
 2. INSERT
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N003", "ละมุด", 40, 25, #6-7-2021# );
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/02-insert-after.png"/>
+<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/02-insert-after.png"/>
 
 3.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N004", "ลำไย", 100, 4, #6-9-2021# ); 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/03-insert-after.png"/>
+<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/03-insert-after.png"/>
 
 4.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N004", "ลำไย", 100, 4, #6-9-2021# ); 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/04-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/04-insert-after.png"/>
 
 5.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N006", "ส้มเขียวหวาน สายน้ำผึ้ง เบอร์ 5", 120, 65, #25-9-2021# ); 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/05-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/05-insert-after.png"/>
 
 
 6.	UPDATE 
@@ -59,42 +59,42 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N006", "ส�
 UPDATE tb_fruit SET Quantity = 200, Price = 30 WHERE Name LIKE "แอปเปิ้ล"; 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/06-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/06-update-after.png"/>
 
 7.	UPDATE 
 <pre>
 UPDATE tb_fruit SET Quantity = 500, Price = 3 WHERE ID = "N004"; 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/07-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/07-update-after.png"/>
 
 8. UPDATE 
 <pre>
 UPDATE tb_fruit SET Quantity = 400, Price = 42 WHERE Quantity = 170; 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/08-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/08-update-after.png"/>
 
 9.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N007", "ส้มเขียวหวาน สายน้ำผึ้ง เบอร์ 6", 100, 75, #25-9-2021# ); 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/09-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/09-insert-after.png"/>
 
 10.	UPDATE 
 <pre>
 UPDATE tb_fruit SET st_date = #10/1/2021# WHERE ID = "N007"; 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/10-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/10-update-after.png"/>
 
 11.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N008", "ส้มโอ ขาวน้ำผึ้ง - เล็ก", 50, 40, #25-9-2021# ); 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/11-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/11-insert-after.png"/>
 
 
 12.	UPDATE 
@@ -102,7 +102,7 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N008", "ส�
 UPDATE tb_fruit SET st_date = #10/2/2021#, Quantity = 400, Price=42 WHERE ID = "N008"; 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/12-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/12-update-after.png"/>
 
 
 13.  INSERT
@@ -114,7 +114,7 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N011", "ส�
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N012", "ส้มเขียวหวาน สายน้ำผึ้ง เบอร์ 6", 600, 75, #3-10-2021# ) ;
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/13-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/13-insert-after.png"/>
 
 
 14.	UPDATE 
@@ -122,14 +122,14 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N012", "ส�
 UPDATE tb_fruit SET st_date = #10/3/2021# WHERE st_date LIKE #3-10-2021# 
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/14-update-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/14-update-after.png"/>
 
 15. SELECT
 <pre>
 SELECT * FROM tb_fruit WHERE Price = 42;
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/15-select-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/15-select-after.png"/>
 
 16. INSERT
 <pre>
@@ -140,21 +140,21 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N016", "ท�
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N017", "ทุเรียนหมอนทอง – เบอร์ใหญ่", 70, 180, #10-6-2021# );
 </pre>
 
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/16-insert-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/16-insert-after.png"/>
 
 17. SELECT
 <pre>
 SELECT Name FROM tb_fruit;
 </pre>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/17-select-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/17-select-after.png"/>
 
 18. SELECT
 <pre>
 SELECT Name, Price FROM tb_fruit;
 SELECT Name, Quantity, Price FROM tb_fruit;
 </pre>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after.png"/>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after-2.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/18-select-after-2.png"/>
 
 19. DELETE
 
