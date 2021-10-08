@@ -5,7 +5,7 @@ Database plan:
 <pre>
 db_fruit
 	tb_fruit
-		ID (3)
+		ID (4)
 		Name varchar (30)
 		Quantity int (1000)
 		Price int(10000)
