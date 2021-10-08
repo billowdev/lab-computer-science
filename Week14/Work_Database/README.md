@@ -10,15 +10,19 @@ db_fruit
 		Price int(10000)
 		Date (date/time)
 </pre>
+![alt text](Week14/Work_Database/snapshot/db_design.png)
 
 1.	SELECT
 <pre>
 SELECT * FROM tb_fruit;
 </pre>
+<!-- ![alt text](http://url/to/img.png) -->
+
 2. INSERT
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N003", "ละมุด", 40, 25, #6-7-2021# );
-</pre> 
+</pre>
+ 
 3.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N004", "ลำไย", 100, 4, #6-9-2021# ); 
@@ -30,43 +34,43 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N004", "ล�
 </pre>
 
 5.	INSERT 
-<pre> 
+<pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N006", "ส้มเขียวหวาน สายน้ำผึ้ง เบอร์ 5", 120, 65, #25-9-2021# ) ; 
 </pre>
 
 
 6.	UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET Quantity = 200, Price = 30 WHERE Name LIKE "แอปเปิ้ล"; 
 </pre>
 
 7.	UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET Quantity = 500, Price = 3 WHERE ID = "N004"; 
 </pre>
 
 8. UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET Quantity = 400, Price = 42 WHERE Quantity = 170; 
 </pre>
 
 9.	INSERT 
-<pre> 
+<pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N007", "ส้มเขียวหวาน สายน้ำผึ้ง เบอร์ 6", 100, 75, #25-9-2021# ) ; 
 </pre>
 
 10.	UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET st_date = #10/1/2021# WHERE ID = "N007"; 
 </pre>
 
 11.	INSERT 
-<pre> 
+<pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N008", "ส้มโอ ขาวน้ำผึ้ง - เล็ก", 50, 40, #25-9-2021# ); 
 </pre>
 
 12.	UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET st_date = #10/2/2021#, Quantity = 400, Price=42 WHERE ID = "N008"; 
 </pre>
 
@@ -82,7 +86,28 @@ INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N012", "ส�
 
 
 14.	UPDATE 
-<pre> 
+<pre>
 UPDATE tb_fruit SET st_date = #10/3/2021# WHERE st_date LIKE #3-10-2021# 
 </pre>
 
+15. SELECT
+<pre>
+SELECT * FROM tb_fruit WHERE Price = 42;
+</pre>
+
+16. INSERT
+<pre>
+INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N013", "กระท้อนทับทิม – เบอร์กลาง", 77, 18, #10-3-2021# );
+INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N014", "ขนุนทองประเสริฐ", 220, 15, #10-3-2021# );
+INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N015", "กระท้อนทับทิม – เบอร์กลาง", 50, 4, #10-3-2021# );
+INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N016", "กระท้อนทับทิม – เบอร์กลาง", 50, 4, #10-3-2021# );
+INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N017", "กระท้อนทับทิม – เบอร์กลาง", 50, 4, #10-3-2021# );
+</pre>
+
+17. SELECT
+
+18. SELECT
+
+19. DELETE
+
+20. DELETE
