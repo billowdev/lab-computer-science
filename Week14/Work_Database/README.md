@@ -144,14 +144,18 @@ SELECT Name, Quantity, Price FROM tb_fruit;
 <pre>
 DELETE FROM tb_fruit WHERE ID="N004";
 <pre>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-before.png"/>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-pre-after.png"/>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-refresh-after.png"/>
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-before.png"/>
+- before refresh
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-pre-after.png"/>
+- refresh
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/19-delete-refresh-after.png"/>
 
 20. DELETE
 <pre>
 DELETE FROM tb_fruit WHERE st_date=#10-7-2021#;
 </pre>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/20-delete-pre-after.png"/>
-<img align="center" width="500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/20-delete-refresh-after.png"/>
+- before refresh
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/20-delete-pre-after.png"/>
+- refresh
+<img align="center" width="650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/20-delete-refresh-after.png"/>
 
