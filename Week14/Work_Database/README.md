@@ -10,7 +10,7 @@ db_fruit
 		Price int(10000)
 		Date (date/time)
 </pre>
-![alt text](Week14/Work_Database/snapshot/db_design.png)
+![alt text](https://github.com/lacakp/Computer-Science/tree/Advance-Programming/Week14/Work_Database/snapshot/db_design.png)
 
 1.	SELECT
 <pre>
