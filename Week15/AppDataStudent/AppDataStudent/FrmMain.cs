@@ -11,7 +11,7 @@ using System.Data.OleDb;
 
 namespace AppDataStudent
 {
-    // 112 อัครพล พิกุลศรี
+
     public partial class FrmMain : Form
     {
         public FrmMain()
