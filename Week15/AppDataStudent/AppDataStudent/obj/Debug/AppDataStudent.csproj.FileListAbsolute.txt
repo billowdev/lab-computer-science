@@ -1,0 +1,10 @@
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.exe.config
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.exe
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.pdb
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.AssemblyReference.cache
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.Form1.resources
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.Properties.Resources.resources
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.GenerateResource.cache
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.CoreCompileInputs.cache
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.exe
+C:\GitHub\Computer-Science\Week15\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.pdb
