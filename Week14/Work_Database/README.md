@@ -13,31 +13,31 @@ db_fruit
 </pre>
 
 Database Design :
-<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_design.png"/>
+<img align="center" width="ุ500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_design.png"/>
 
 Initial Data :
-<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_fruit.png"/>
+<img align="center" width="ุ500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/db_fruit.png"/>
 
 1.	SELECT
 <pre>
 SELECT * FROM tb_fruit;
 </pre>
 
-<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/01-select-a.png"/>
+<img align="center" width="ุ500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/01-select-a.png"/>
 
 2. INSERT
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N003", "ละมุด", 40, 25, #6-7-2021# );
 </pre>
 
-<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/02-insert-after.png"/>
+<img align="center" width="ุ500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/02-insert-after.png"/>
 
 3.	INSERT 
 <pre>
 INSERT INTO tb_fruit (ID, Name, Quantity, Price, st_date) VALUES ( "N004", "ลำไย", 100, 4, #6-9-2021# ); 
 </pre>
 
-<img align="center" width="ุ650" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/03-insert-after.png"/>
+<img align="center" width="ุ500" alt="PNG" src="https://raw.githubusercontent.com/lacakp/Computer-Science/Advance-Programming/Week14/Work_Database/snapshot/03-insert-after.png"/>
 
 4.	INSERT 
 <pre>
