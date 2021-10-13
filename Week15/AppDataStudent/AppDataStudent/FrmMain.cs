@@ -36,6 +36,7 @@ namespace AppDataStudent
             Conn.Open();
 
             ShowAllStudent();
+            FormatDataStudent();
         }
 
         private void ShowAllStudent()
@@ -61,5 +62,25 @@ namespace AppDataStudent
             }
             
         }
+
+        private void FormatDataStudent()
+        {
+            DataGridViewCellStyle cs = new DataGridViewCellStyle();
+            cs.Font = new Font("Ms Sans Serif", 9, FontStyle.Regular);
+            dgvAllStduent.ColumnHeadersDefaultCellStyle = cs;
+            dgvAllStduent.Columns[0].HeaderText = "รหัสนักศึกษา";
+            dgvAllStduent.Columns[1].HeaderText = "ชื่อ";
+            dgvAllStduent.Columns[2].HeaderText = "นามสกุล";
+            dgvAllStduent.Columns[3].HeaderText = "วันเดือนปีเกิด";
+            dgvAllStduent.Columns[4].HeaderText = "น้ำหนัก";
+
+            dgvAllStduent.Columns[0].Width = 80;
+            dgvAllStduent.Columns[1].Width = 120;
+            dgvAllStduent.Columns[2].Width = 120;
+            dgvAllStduent.Columns[3].Width = 100;
+            dgvAllStduent.Columns[4].Width = 80;
+
+        }
+
     }
 }
