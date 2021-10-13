@@ -69,7 +69,7 @@ namespace AppDataStudent
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 13);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(748, 369);
+            this.groupBox1.Size = new System.Drawing.Size(782, 369);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "รายการข้อมูลนักศึกษา";
@@ -172,9 +172,9 @@ namespace AppDataStudent
             this.groupBox2.Controls.Add(this.btnSave);
             this.groupBox2.Controls.Add(this.btnNew);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox2.Location = new System.Drawing.Point(766, 13);
+            this.groupBox2.Location = new System.Drawing.Point(800, 13);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(377, 717);
+            this.groupBox2.Size = new System.Drawing.Size(343, 717);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "การดำเนินการ";
@@ -188,6 +188,7 @@ namespace AppDataStudent
             this.btnExit.TabIndex = 1;
             this.btnExit.Text = "ออกจากโปรแกรม";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnDelete
             // 
@@ -235,7 +236,7 @@ namespace AppDataStudent
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.Location = new System.Drawing.Point(13, 389);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(747, 341);
+            this.groupBox3.Size = new System.Drawing.Size(781, 341);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "ข้อมูลนักศึกษาทั้งหมด";
@@ -249,6 +250,7 @@ namespace AppDataStudent
             this.dgvAllStduent.RowTemplate.Height = 24;
             this.dgvAllStduent.Size = new System.Drawing.Size(735, 299);
             this.dgvAllStduent.TabIndex = 0;
+            this.dgvAllStduent.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvAllStduent_CellMouseUp);
             // 
             // FrmMain
             // 

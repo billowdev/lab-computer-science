@@ -66,7 +66,7 @@ namespace AppDataStudent
         private void FormatDataStudent()
         {
             DataGridViewCellStyle cs = new DataGridViewCellStyle();
-            cs.Font = new Font("Ms Sans Serif", 9, FontStyle.Regular);
+            cs.Font = new Font("Ms Sans Serif", 10, FontStyle.Regular);
             dgvAllStduent.ColumnHeadersDefaultCellStyle = cs;
             dgvAllStduent.Columns[0].HeaderText = "รหัสนักศึกษา";
             dgvAllStduent.Columns[1].HeaderText = "ชื่อ";
@@ -74,12 +74,41 @@ namespace AppDataStudent
             dgvAllStduent.Columns[3].HeaderText = "วันเดือนปีเกิด";
             dgvAllStduent.Columns[4].HeaderText = "น้ำหนัก";
 
-            dgvAllStduent.Columns[0].Width = 80;
+            dgvAllStduent.Columns[0].Width = 100;
             dgvAllStduent.Columns[1].Width = 120;
             dgvAllStduent.Columns[2].Width = 120;
             dgvAllStduent.Columns[3].Width = 100;
-            dgvAllStduent.Columns[4].Width = 80;
+            dgvAllStduent.Columns[4].Width = 70;
 
+        }
+        private void dgvAllStduent_CellMouseUp(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            if (e.RowIndex == dgvAllStduent.Rows.Count - 1)
+            {
+                return;
+            }
+            try
+            {
+                txtStdID.Text = dgvAllStduent.Rows[e.RowIndex].Cells[0].Value.ToString();
+                txtName.Text = dgvAllStduent.Rows[e.RowIndex].Cells[1].Value.ToString();
+                txtLastName.Text = dgvAllStduent.Rows[e.RowIndex].Cells[2].Value.ToString();
+                dtpDOB.Value = Convert.ToDateTime(dgvAllStduent.Rows[e.RowIndex].Cells[3].Value);
+                txtWeight.Text = dgvAllStduent.Rows[e.RowIndex].Cells[4].Value.ToString();
+            }
+            catch
+            {
+                MessageBox.Show("Error", "Error krub",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+
+            //if ((MessageBox.Show("Exit", "ปิด", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            //{
+
+            //}
         }
 
     }
