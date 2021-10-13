@@ -229,6 +229,7 @@ namespace AppDataStudent
             this.btnNew.TabIndex = 1;
             this.btnNew.Text = "เพิ่มใหม่";
             this.btnNew.UseVisualStyleBackColor = true;
+            this.btnNew.Click += new System.EventHandler(this.btnNew_Click);
             // 
             // groupBox3
             // 

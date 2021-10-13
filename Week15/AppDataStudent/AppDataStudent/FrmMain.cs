@@ -111,5 +111,22 @@ namespace AppDataStudent
             //}
         }
 
+        private void btnNew_Click(object sender, EventArgs e)
+        {
+            ClearAllStudent();
+            
+
+        }
+
+        private void ClearAllStudent()
+        {
+            txtStdID.Text = "";
+            txtName.Text = "";
+            txtLastName.Text = "";
+            dtpDOB.Value = DateTime.Now;
+            txtWeight.Text = "";
+            txtStdID.Focus();
+
+        }
     }
 }
