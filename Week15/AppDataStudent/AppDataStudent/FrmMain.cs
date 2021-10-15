@@ -117,7 +117,6 @@ namespace AppDataStudent
         private void btnNew_Click(object sender, EventArgs e)
         {
             ClearAllStudent();
-
         }
 
         private void btnSave_Click(object sender, EventArgs e)
@@ -128,6 +127,7 @@ namespace AppDataStudent
                 txtStdID.Focus();
                 return;
             }
+
             string sqlAdd = "";
             OleDbCommand comAdd = new OleDbCommand();
             try
@@ -213,17 +213,6 @@ namespace AppDataStudent
             }
         }
 
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-
-            if (MessageBox.Show("คุณต้องการออกจากโปรแกรมใช่หรือไม่", "ปิดโปรแกรม",
-                MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
-            {
-                this.Close();
-            }
-        }
-
         private void btnDelete_Click(object sender, EventArgs e)
         {
             try
@@ -257,6 +246,17 @@ namespace AppDataStudent
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message.ToString());
+            }
+        }
+
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+
+            if (MessageBox.Show("คุณต้องการออกจากโปรแกรมใช่หรือไม่", "ปิดโปรแกรม",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                this.Close();
             }
         }
     }
