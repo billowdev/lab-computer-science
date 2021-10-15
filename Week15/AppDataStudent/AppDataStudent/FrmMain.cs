@@ -75,9 +75,9 @@ namespace AppDataStudent
             dgvAllStduent.Columns[4].HeaderText = "น้ำหนัก";
 
             dgvAllStduent.Columns[0].Width = 120;
-            dgvAllStduent.Columns[1].Width = 120;
-            dgvAllStduent.Columns[2].Width = 120;
-            dgvAllStduent.Columns[3].Width = 100;
+            dgvAllStduent.Columns[1].Width = 140;
+            dgvAllStduent.Columns[2].Width = 140;
+            dgvAllStduent.Columns[3].Width = 140;
             dgvAllStduent.Columns[4].Width = 70;
 
         }
@@ -166,10 +166,58 @@ namespace AppDataStudent
             }
         }
 
+        private void btnEdit_Click(object sender, EventArgs e)
+        {
+            if (txtName.Text == "")
+            {
+                MessageBox.Show("กรุณากรอกข้อมูลที่จะแก้ไขให้ครบ", "ผิดพลาด",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtName.Focus();
+                return;
+            }
+            string sqlEdit;
+            OleDbCommand comEdit = new OleDbCommand();
+            try
+            {
+                if(MessageBox.Show("คุณต้องการแก้ไขข้อมูลใช่หรือไม่", "ยืนยัน",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                {
+                    sqlEdit = "update tb_hisstudent set stu_name = '" + txtName.Text
+                        + "',stu_surname = '" + txtLastName.Text
+                        + "',stu_bdate = '" + dtpDOB.Value
+                        + "',stu_weight = '" + txtWeight.Text
+                        + "'where stu_id = '" + txtStdID.Text + "'";
+
+                    if (Conn.State == ConnectionState.Open)
+                    {
+                        Conn.Close();
+                    }
+                    Conn.ConnectionString = strConn;
+                    Conn.Open();
+
+                    comEdit.CommandType = CommandType.Text;
+                    comEdit.CommandText = sqlEdit;
+                    comEdit.Connection = Conn;
+                    comEdit.ExecuteNonQuery();
+
+                    MessageBox.Show("แก้ไขข้อมูลเรียบร้อยแล้ว");
+                    ClearAllStudent();
+                    ShowAllStudent();
+
+                }
+            }
+            catch
+            {
+                MessageBox.Show("ข้อมูลผิดพลาด", "ผิดพลาด",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+
         private void btnExit_Click(object sender, EventArgs e)
         {
 
-            if (MessageBox.Show("คุณต้องการออกจากโปรแกรมใช่หรือไม่", "ปิดโปรแกรม", 
+            if (MessageBox.Show("คุณต้องการออกจากโปรแกรมใช่หรือไม่", "ปิดโปรแกรม",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
             {
                 this.Close();
