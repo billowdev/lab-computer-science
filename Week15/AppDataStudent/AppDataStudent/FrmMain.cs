@@ -223,5 +223,41 @@ namespace AppDataStudent
                 this.Close();
             }
         }
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtStdID.Text == "")
+                {
+                    MessageBox.Show("กรุณาเลือกข้อมูลที่จะลบ", "ผิดพลาด");
+                    return;
+                }
+                String sqlDel = "delete from tb_hisstudent where stu_id = '" + txtStdID.Text + "'";
+                if (Conn.State == ConnectionState.Open)
+                {
+                    Conn.Close();
+                }
+
+                Conn.ConnectionString = strConn;
+                Conn.Open();
+
+                OleDbCommand comDel = new OleDbCommand(sqlDel, Conn);
+
+                if (MessageBox.Show("คุณต้องการลบข้อมูลนี้ใช่หรือไม่", "ยืนยัน",
+                    MessageBoxButtons.OKCancel, MessageBoxIcon.Question) == DialogResult.OK)
+                {
+
+                    comDel.ExecuteNonQuery();
+                    MessageBox.Show("ลบข้อมูลเรียบร้อยแล้ว", "ผลการดำเนินการ");
+                    ClearAllStudent();
+                    ShowAllStudent();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message.ToString());
+            }
+        }
     }
 }
