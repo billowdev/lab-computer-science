@@ -136,8 +136,12 @@ namespace AppDataStudent
                     MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     sqlAdd = "insert into tb_hisstudent(stu_id, stu_name, stu_surname, stu_bdate, stu_weight) values('"
-                        + txtStdID.Text + "','" + txtName.Text + "','"
-                        + txtLastName.Text + "','" + dtpDOB.Text + "','" + txtWeight.Text + "')";
+                        + txtStdID.Text     + "','" 
+                        + txtName.Text      + "','"
+                        + txtLastName.Text  + "','" 
+                        + dtpDOB.Value       + "','" 
+                        + txtWeight.Text    + "')" ;
+
                     if (Conn.State == ConnectionState.Open)
                     {
                         Conn.Close();
@@ -165,7 +169,7 @@ namespace AppDataStudent
         private void btnExit_Click(object sender, EventArgs e)
         {
 
-            if (MessageBox.Show("Exit", "ปิด", 
+            if (MessageBox.Show("คุณต้องการออกจากโปรแกรมใช่หรือไม่", "ปิดโปรแกรม", 
                 MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
             {
                 this.Close();
