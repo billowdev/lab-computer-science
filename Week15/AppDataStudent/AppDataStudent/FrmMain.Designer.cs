@@ -209,6 +209,7 @@ namespace AppDataStudent
             this.btnEdit.TabIndex = 1;
             this.btnEdit.Text = "แก้ไข";
             this.btnEdit.UseVisualStyleBackColor = true;
+            this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
             // 
             // btnSave
             // 
@@ -219,6 +220,7 @@ namespace AppDataStudent
             this.btnSave.TabIndex = 1;
             this.btnSave.Text = "บันทึก";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnNew
             // 
