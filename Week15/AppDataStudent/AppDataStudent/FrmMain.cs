@@ -139,7 +139,7 @@ namespace AppDataStudent
                         + txtStdID.Text     + "','" 
                         + txtName.Text      + "','"
                         + txtLastName.Text  + "','" 
-                        + dtpDOB.Value       + "','" 
+                        + dtpDOB.Value      + "','" 
                         + txtWeight.Text    + "')" ;
 
                     if (Conn.State == ConnectionState.Open)
