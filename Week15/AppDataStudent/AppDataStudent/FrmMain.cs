@@ -74,7 +74,7 @@ namespace AppDataStudent
             dgvAllStduent.Columns[3].HeaderText = "วันเดือนปีเกิด";
             dgvAllStduent.Columns[4].HeaderText = "น้ำหนัก";
 
-            dgvAllStduent.Columns[0].Width = 100;
+            dgvAllStduent.Columns[0].Width = 120;
             dgvAllStduent.Columns[1].Width = 120;
             dgvAllStduent.Columns[2].Width = 120;
             dgvAllStduent.Columns[3].Width = 100;
@@ -102,21 +102,7 @@ namespace AppDataStudent
             }
         }
 
-        private void btnExit_Click(object sender, EventArgs e)
-        {
 
-            //if ((MessageBox.Show("Exit", "ปิด", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
-            //{
-
-            //}
-        }
-
-        private void btnNew_Click(object sender, EventArgs e)
-        {
-            ClearAllStudent();
-            
-
-        }
 
         private void ClearAllStudent()
         {
@@ -127,6 +113,63 @@ namespace AppDataStudent
             txtWeight.Text = "";
             txtStdID.Focus();
 
+        }
+        private void btnNew_Click(object sender, EventArgs e)
+        {
+            ClearAllStudent();
+
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            if(txtStdID.Text == "")
+            {
+                MessageBox.Show("กรุณากรอกข้อมูลให้ครบ", "ผิดพลาด");
+                txtStdID.Focus();
+                return;
+            }
+            string sqlAdd = "";
+            OleDbCommand comAdd = new OleDbCommand();
+            try
+            {
+                if (MessageBox.Show("เพิ่มข้อมูลใช่หรือไม่", "เพิ่มข้อมูล",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                {
+                    sqlAdd = "insert into tb_hisstudent(stu_id, stu_name, stu_surname, stu_bdate, stu_weight) values('"
+                        + txtStdID.Text + "','" + txtName.Text + "','"
+                        + txtLastName.Text + "','" + dtpDOB.Text + "','" + txtWeight.Text + "')";
+                    if (Conn.State == ConnectionState.Open)
+                    {
+                        Conn.Close();
+                    }
+                    Conn.ConnectionString = strConn;
+                    Conn.Open();
+
+                    comAdd.CommandType = CommandType.Text;
+                    comAdd.CommandText = sqlAdd;
+                    comAdd.Connection = Conn;
+                    comAdd.ExecuteNonQuery();
+
+                    MessageBox.Show("ได้บันทึกข้อมูลเรียบร้อยแล้ว", "ผลการดำเนินการ");
+                    ClearAllStudent();
+                    ShowAllStudent();
+                      
+                }
+            }
+            catch
+            {
+                MessageBox.Show("ไม่สามารถติดต่อฐานข้อมูลได้", "ผิดพลาด");
+            }
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+
+            if (MessageBox.Show("Exit", "ปิด", 
+                MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }
