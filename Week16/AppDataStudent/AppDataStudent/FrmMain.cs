@@ -11,13 +11,14 @@ using System.Data.OleDb;
 
 namespace AppDataStudent
 {
-
     public partial class FrmMain : Form
     {
         public FrmMain()
         {
             InitializeComponent();
         }
+
+        // 63102105112 Akkarapon Phikulsri
 
         string strConn = "Provider=Microsoft.ACE.OLEDB.12.0;data source= ../../../../db_student.accdb";
         public string sql;
