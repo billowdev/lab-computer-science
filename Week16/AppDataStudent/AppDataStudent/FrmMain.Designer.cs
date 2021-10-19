@@ -287,6 +287,7 @@ namespace AppDataStudent
             this.btnSeeAll.TabIndex = 2;
             this.btnSeeAll.Text = "ดูข้อมูลทั้งหมด";
             this.btnSeeAll.UseVisualStyleBackColor = true;
+            this.btnSeeAll.Click += new System.EventHandler(this.btnSeeAll_Click);
             // 
             // FrmMain
             // 

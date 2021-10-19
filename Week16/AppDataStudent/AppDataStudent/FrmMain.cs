@@ -282,5 +282,10 @@ namespace AppDataStudent
                 IsFind = false;
             }
         }
+
+        private void btnSeeAll_Click(object sender, EventArgs e)
+        {
+            ShowAllStudent();
+        }
     }
 }
