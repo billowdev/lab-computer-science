@@ -48,7 +48,7 @@ namespace AppDataStudent
             this.btnNew = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.dgvAllStduent = new System.Windows.Forms.DataGridView();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtSearch = new System.Windows.Forms.TextBox();
             this.btnSearch = new System.Windows.Forms.Button();
             this.btnSeeAll = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
@@ -241,7 +241,7 @@ namespace AppDataStudent
             // 
             this.groupBox3.Controls.Add(this.btnSeeAll);
             this.groupBox3.Controls.Add(this.btnSearch);
-            this.groupBox3.Controls.Add(this.textBox1);
+            this.groupBox3.Controls.Add(this.txtSearch);
             this.groupBox3.Controls.Add(this.dgvAllStduent);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.Location = new System.Drawing.Point(13, 389);
@@ -262,12 +262,12 @@ namespace AppDataStudent
             this.dgvAllStduent.TabIndex = 0;
             this.dgvAllStduent.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvAllStduent_CellMouseUp);
             // 
-            // textBox1
+            // txtSearch
             // 
-            this.textBox1.Location = new System.Drawing.Point(193, 25);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(280, 26);
-            this.textBox1.TabIndex = 1;
+            this.txtSearch.Location = new System.Drawing.Point(193, 25);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(280, 26);
+            this.txtSearch.TabIndex = 1;
             // 
             // btnSearch
             // 
@@ -277,6 +277,7 @@ namespace AppDataStudent
             this.btnSearch.TabIndex = 2;
             this.btnSearch.Text = "ค้นหา";
             this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
             // btnSeeAll
             // 
@@ -331,7 +332,7 @@ namespace AppDataStudent
         private System.Windows.Forms.Button btnNew;
         private System.Windows.Forms.Button btnSeeAll;
         private System.Windows.Forms.Button btnSearch;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtSearch;
     }
 }
 

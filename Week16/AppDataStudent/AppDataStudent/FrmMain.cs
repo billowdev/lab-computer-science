@@ -259,5 +259,28 @@ namespace AppDataStudent
                 this.Close();
             }
         }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            string sqlStu = "select * from tb_hisstudent where stu_id = '" + txtSearch.Text + "'";
+            if (IsFind == true)
+            {
+                ds.Tables["tb_hisstudent"].Clear();
+            }
+
+            da = new OleDbDataAdapter(sqlStu, Conn);
+            da.Fill(ds, "tb_hisstudent");
+
+            if (ds.Tables["tb_hisstudent"].Rows.Count != 0)
+            {
+                IsFind = true;
+                dgvAllStduent.ReadOnly = true;
+                dgvAllStduent.DataSource = ds.Tables["tb_hisstudent"];
+            }
+            else
+            {
+                IsFind = false;
+            }
+        }
     }
 }
