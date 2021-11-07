@@ -47,10 +47,10 @@ namespace AppDataStudent
             this.btnSave = new System.Windows.Forms.Button();
             this.btnNew = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.dgvAllStduent = new System.Windows.Forms.DataGridView();
-            this.txtSearch = new System.Windows.Forms.TextBox();
-            this.btnSearch = new System.Windows.Forms.Button();
             this.btnSeeAll = new System.Windows.Forms.Button();
+            this.btnSearch = new System.Windows.Forms.Button();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.dgvAllStduent = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -251,23 +251,15 @@ namespace AppDataStudent
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "ข้อมูลนักศึกษาทั้งหมด";
             // 
-            // dgvAllStduent
+            // btnSeeAll
             // 
-            this.dgvAllStduent.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAllStduent.Location = new System.Drawing.Point(6, 64);
-            this.dgvAllStduent.Name = "dgvAllStduent";
-            this.dgvAllStduent.RowHeadersWidth = 51;
-            this.dgvAllStduent.RowTemplate.Height = 24;
-            this.dgvAllStduent.Size = new System.Drawing.Size(735, 256);
-            this.dgvAllStduent.TabIndex = 0;
-            this.dgvAllStduent.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvAllStduent_CellMouseUp);
-            // 
-            // txtSearch
-            // 
-            this.txtSearch.Location = new System.Drawing.Point(193, 25);
-            this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(280, 26);
-            this.txtSearch.TabIndex = 1;
+            this.btnSeeAll.Location = new System.Drawing.Point(607, 21);
+            this.btnSeeAll.Name = "btnSeeAll";
+            this.btnSeeAll.Size = new System.Drawing.Size(134, 31);
+            this.btnSeeAll.TabIndex = 2;
+            this.btnSeeAll.Text = "ดูข้อมูลทั้งหมด";
+            this.btnSeeAll.UseVisualStyleBackColor = true;
+            this.btnSeeAll.Click += new System.EventHandler(this.btnSeeAll_Click);
             // 
             // btnSearch
             // 
@@ -279,15 +271,23 @@ namespace AppDataStudent
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
-            // btnSeeAll
+            // txtSearch
             // 
-            this.btnSeeAll.Location = new System.Drawing.Point(607, 21);
-            this.btnSeeAll.Name = "btnSeeAll";
-            this.btnSeeAll.Size = new System.Drawing.Size(134, 31);
-            this.btnSeeAll.TabIndex = 2;
-            this.btnSeeAll.Text = "ดูข้อมูลทั้งหมด";
-            this.btnSeeAll.UseVisualStyleBackColor = true;
-            this.btnSeeAll.Click += new System.EventHandler(this.btnSeeAll_Click);
+            this.txtSearch.Location = new System.Drawing.Point(193, 25);
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(280, 26);
+            this.txtSearch.TabIndex = 1;
+            // 
+            // dgvAllStduent
+            // 
+            this.dgvAllStduent.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvAllStduent.Location = new System.Drawing.Point(6, 64);
+            this.dgvAllStduent.Name = "dgvAllStduent";
+            this.dgvAllStduent.RowHeadersWidth = 51;
+            this.dgvAllStduent.RowTemplate.Height = 24;
+            this.dgvAllStduent.Size = new System.Drawing.Size(735, 256);
+            this.dgvAllStduent.TabIndex = 0;
+            this.dgvAllStduent.CellMouseUp += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvAllStduent_CellMouseUp);
             // 
             // FrmMain
             // 

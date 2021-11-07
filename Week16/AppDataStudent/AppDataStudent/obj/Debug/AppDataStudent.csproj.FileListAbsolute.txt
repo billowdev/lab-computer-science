@@ -18,3 +18,13 @@ C:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDat
 C:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.CoreCompileInputs.cache
 C:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.exe
 C:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.pdb
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.exe.config
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.exe
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\bin\Debug\AppDataStudent.pdb
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.AssemblyReference.cache
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.FrmMain.resources
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.Properties.Resources.resources
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.GenerateResource.cache
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.csproj.CoreCompileInputs.cache
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.exe
+D:\GitHub\Computer-Science\Week16\AppDataStudent\AppDataStudent\obj\Debug\AppDataStudent.pdb

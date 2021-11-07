@@ -113,7 +113,6 @@ namespace AppDataStudent
             dtpDOB.Value = DateTime.Now;
             txtWeight.Text = "";
             txtStdID.Focus();
-
         }
         private void btnNew_Click(object sender, EventArgs e)
         {

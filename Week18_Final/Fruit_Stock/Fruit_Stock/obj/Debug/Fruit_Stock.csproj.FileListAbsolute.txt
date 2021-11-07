@@ -1,0 +1,10 @@
+D:\112\Fruit_Stock\Fruit_Stock\bin\Debug\Fruit_Stock.exe.config
+D:\112\Fruit_Stock\Fruit_Stock\bin\Debug\Fruit_Stock.exe
+D:\112\Fruit_Stock\Fruit_Stock\bin\Debug\Fruit_Stock.pdb
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.csproj.AssemblyReference.cache
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.FrmMain.resources
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.Properties.Resources.resources
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.csproj.GenerateResource.cache
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.csproj.CoreCompileInputs.cache
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.exe
+D:\112\Fruit_Stock\Fruit_Stock\obj\Debug\Fruit_Stock.pdb

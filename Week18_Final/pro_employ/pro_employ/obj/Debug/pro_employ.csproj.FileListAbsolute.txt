@@ -1,0 +1,10 @@
+D:\112\pro_employ\pro_employ\bin\Debug\pro_employ.exe.config
+D:\112\pro_employ\pro_employ\bin\Debug\pro_employ.exe
+D:\112\pro_employ\pro_employ\bin\Debug\pro_employ.pdb
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.csproj.AssemblyReference.cache
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.FrmMain.resources
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.Properties.Resources.resources
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.csproj.GenerateResource.cache
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.csproj.CoreCompileInputs.cache
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.exe
+D:\112\pro_employ\pro_employ\obj\Debug\pro_employ.pdb

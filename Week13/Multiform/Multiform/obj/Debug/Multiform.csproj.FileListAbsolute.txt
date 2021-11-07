@@ -10,3 +10,15 @@ C:\Users\lacakp\source\repos\Multiform\Multiform\obj\Debug\Multiform.Properties.
 C:\Users\lacakp\source\repos\Multiform\Multiform\obj\Debug\Multiform.csproj.CoreCompileInputs.cache
 C:\Users\lacakp\source\repos\Multiform\Multiform\obj\Debug\Multiform.exe
 C:\Users\lacakp\source\repos\Multiform\Multiform\obj\Debug\Multiform.pdb
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\bin\Debug\Multiform.exe.config
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\bin\Debug\Multiform.exe
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\bin\Debug\Multiform.pdb
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.csproj.AssemblyReference.cache
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.UserFrm.resources
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.Frm3.resources
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.FrmMain.resources
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.Properties.Resources.resources
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.csproj.GenerateResource.cache
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.csproj.CoreCompileInputs.cache
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.exe
+D:\GitHub\Computer-Science\Week13\Multiform\Multiform\obj\Debug\Multiform.pdb

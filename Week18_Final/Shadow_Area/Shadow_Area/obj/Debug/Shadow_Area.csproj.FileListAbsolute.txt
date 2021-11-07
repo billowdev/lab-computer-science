@@ -1,0 +1,10 @@
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\bin\Debug\Shadow_Area.exe.config
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\bin\Debug\Shadow_Area.exe
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\bin\Debug\Shadow_Area.pdb
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.csproj.AssemblyReference.cache
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.Form1.resources
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.Properties.Resources.resources
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.csproj.GenerateResource.cache
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.csproj.CoreCompileInputs.cache
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.exe
+D:\112\Shadow_Area\Shadow_Area\Shadow_Area\obj\Debug\Shadow_Area.pdb
